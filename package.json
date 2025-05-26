@@ -121,4 +121,3 @@
     "node": "16.x"
   }
 }
-fix: set Node version to 16 for Railway
