@@ -115,11 +115,11 @@
     "crypto-js": "^4.2.0",
     "mongoose": "^8.14.1",
     "redis": "^4.7.0"
-  }
-  ,
-   "license": "MIT",
+  },
+  "license": "MIT",
   "engines": {
     "node": "16.x"
   }
 }
+
 
